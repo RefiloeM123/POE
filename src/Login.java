@@ -1,4 +1,5 @@
-
+public class Login {
+}
 import java.util.Scanner;
 
 public class Main {
@@ -41,10 +42,4 @@ public class Main {
             System.out.println(auth.returnLoginStatus(success));
         }
 
-        sc.close(); // Good practice to close the scanner
-    }
-
-
-
-
-
+        sc.close(); // Good practice to close the scanner;
