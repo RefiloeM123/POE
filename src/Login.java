@@ -1,6 +1,6 @@
-public class Login {
-}
 import java.util.Scanner;
+
+public class Login {
 
 public class Main {
     public static void main(String[] args) {
@@ -43,3 +43,8 @@ public class Main {
         }
 
         sc.close(); // Good practice to close the scanner;
+
+
+    }
+}
+}
